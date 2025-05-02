@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1746179619962",
+    "sender": "TestApp",
+    "content": "Test message",
+    "timestamp": 1746179619962,
+    "receivedAt": 1746179619962
+  },
+  {
+    "id": "1746174691199",
+    "sender": "Alice",
+    "content": "Please send an SMS",
+    "timestamp": "2025-05-02T00:10:00Z",
+    "receivedAt": 1746174691199
+  },
+  {
+    "id": "1746174661890",
+    "sender": "Alice",
+    "content": "Are you able to send an SMS",
+    "timestamp": "2025-05-02T00:10:00Z",
+    "receivedAt": 1746174661890
+  },
+  {
+    "id": "1746174330824",
+    "sender": "Skylar",
+    "content": "Can you send another SMS",
+    "timestamp": "2025-05-02T00:00:00Z",
+    "receivedAt": 1746174330824
+  },
+  {
+    "id": "1746174262508",
+    "sender": "Skylar",
+    "content": "This is one of those test SMS",
+    "timestamp": "2025-04-22T00:00:00Z",
+    "receivedAt": 1746174262508
+  },
+  {
+    "id": "1745946288386",
+    "sender": "TestApp",
+    "content": "Test message",
+    "timestamp": 1745946288386,
+    "receivedAt": 1745946288386
+  },
+  {
+    "id": "1745944534647",
+    "sender": "MPESA",
+    "content": "TDT7Q5XZL7 confirmed.You bought Ksh2.00 of airtime on 29/4/25 at 7:35 PM.New M-PESA balance is Ksh3,700.42. Transaction cost, Ksh0.00. Amount you can transact within the day is 499,912.00. Start Investing today with Ziidi MMF & earn daily. Dial *334#.",
+    "timestamp": 1745944533177,
+    "receivedAt": 1745944534647
+  },
+  {
+    "id": "1745942698469",
+    "sender": "SAFARICOM",
+    "content": "Recharge of 5.00 KSH by Mpesa account 254703668690 was successful. Balance:128.68 KSH,expiry date:2025-07-28.Tariff: Advantage Hybrid. Dial *444# and select 2 to get amazing deals and CALL MORE for LESS.",
+    "timestamp": 1745942696872,
+    "receivedAt": 1745942698469
+  }
+]

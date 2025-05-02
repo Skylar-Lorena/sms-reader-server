@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1745926648652",
+    "sender": "Skylar",
+    "content": "This is a test SMS",
+    "timestamp": "2025-04-22T00:00:00Z",
+    "receivedAt": 1745926648652
+  },
+  {
+    "id": "1745926613220",
+    "sender": "12345",
+    "content": "Test SMS",
+    "timestamp": "2025-04-12T00:00:00Z",
+    "receivedAt": 1745926613220
+  }
+]
